@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift, TypeScript， Go
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- Blog: Https://www.xurong.tech
+- Blog: https://www.xurong.tech
 - 📫 Email: xurong@xurong.tech
 
 <!---
